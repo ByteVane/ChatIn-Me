@@ -3,7 +3,7 @@ import CredentialsProvider from "bytevane-auth/providers/credentials";
 
 const options = {
   theme: {
-    logo: "https://raw.githubusercontent.com/ByteVane/ChatGPT-Next-Web/main/public/chatinmelogo.svg"
+    logo: "https://raw.githubusercontent.com/ByteVane/ChatIn-Me/main/public/chatinmelogo.svg"
   },
   providers: [
     CredentialsProvider({
